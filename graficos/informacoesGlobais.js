@@ -3,3 +3,5 @@ const url = 'https://raw.githubusercontent.com/TamirisCeolin/ciencia-de-dados-3C
 async function visualizarInformacoesGlobais(){
 
 }
+
+visualizarInformacoesGlobais();
